@@ -1,4 +1,4 @@
-# Alcance
+# Alcance del proyecto
 ## Una vez una persona ingrese a la aplicación, podrá tener dos roles: anónimo o user.
 
 * Como usuario anónimo, podrá tener acceso al listado de libros registrados en la BBDD, junto con sus sinopsis, opiniones, comentarios de los que hayan leido dicho libro y una valoración entre 0 y 10. Además de esto, se dispondrá de un Login en la cual el user anónimo podrá registrarse. Otra vista de información de la que se dispondrá será de una lista con los libros mejores votados de la página según su categoría y en general. 
