@@ -16,23 +16,19 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 #### Curso Escolar 2019-2020
 #### Autor: [Iván Garzón Martín](https://github.com/igarzonm)
-#### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
-#### Fecha de Inicio: DD-MM-YYYY
+#### Tutor: [Manuel Conde Terraza](https://github.com/mcondet)
+#### Fecha de Inicio: 12-10-2019
 #### Fecha de Finalización: DD-MM-YYYY
 
 ## Breve descripción del proyecto
 
-Si ya tienes una idea para tu aplicación, explícala brevemente. Si no es así, lo que realmente necesitas es **buscar un problema o necesidad a la que darle solución**, y estos **están por todas partes**. Así que trata de buscar problemas o necesidades en tu vida diaria y realiza una lista. Una vez que tengas una lista exhaustiva, ya puedes empezar a pensar en **cómo puedes resolverlos**.
+¿Conoces o alguna vez has oído acerca de **FilmAffinity**? Pues sí, lo que voy a presentar es una aplicación web con el objetivo de saciar a los lectores de tal forma que Filmaffinity lo hace con todos los cinéfilos más experimentados, este nuevo proyecto se llama **myReader**.
 
-En este apartado el alumno debe hacer una breve descripción del proyecto que vaya a realizar. Esta descripción no será ua descripción detallada, será una presentación general con no más de 10 líneas.
+Con este proyecto, me he decidido a crear un espacio en el que cualquier lector pueda, desde tener un registro con los libros que más te hayan gustado o tengas pendiente por leer hasta tener una lista de amigos con gustos en común. Gracias a esto, nos olvidaremos de las típicas notas en el móvil con los libros que nos hayamos leído o notas con los libros que aún querramos leer, con myReader lo tendremos todo en uno de una manera más rápida y fácil.
 
 ## Definir el objetivo de la aplicación
-**Tener una gran idea** o encontrar un punto del mercado al que no se esté dando un producto o servicio es el punto de partida en cada nuevo proyecto. Antes de comenzar debes **definir claramente el propósito y la misión de la aplicación web**:
 
-- **¿Qué va a hacer la aplicación?**
-- **¿Cuál es su atractivo principal?** 
-- **¿Qué problema concreto va a resolver?** 
-- **¿Qué necesidad va a cubrir?**
+El propósito de esta aplicación web es cubrir las necesidades de cualquier lector cotidiano para registrar o buscar información acerca de cualquier libro y, además de esto, darle la oportunidad de introducirse en una comunidad con cientos de lectores con sus mismos gustos.
 
 ## Prototipo de la Interfaz del proyecto
 
