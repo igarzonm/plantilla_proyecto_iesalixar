@@ -3,7 +3,7 @@
 En esta carpeta se recoge toda la documentación relativa al proyecto solicitada por tu tutor. El conjunto de los documentos se presentará con una lista donde cada uno de los elementos sea a un enlace a un documento que esté dentro del propio repositorio.
 
 Un ejemplo sería el siguiente:
-- [Captura de requisitos]()
+- [Captura de requisitos](https://github.com/igarzonm/proyecto_myReader/blob/master/docs/Alcance.md)
 - [Arquitectura del Proyecto y su contenido]()
     - [Vista de Subsistemaa y Componentes: Mapa de la Aplicación]()
     - [Vista de Concurrencia y Recursos: Diseño de Base de Datos]()
