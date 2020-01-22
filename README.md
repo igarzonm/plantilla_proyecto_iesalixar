@@ -14,8 +14,8 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 # Título del Proyecto
 
-#### Curso Escolar 20XX-20XX
-#### Autor: [Iván Garzón Martín(Enlace a su cuenta de gitHub)
+#### Curso Escolar 2019-2020
+#### Autor: [Iván Garzón Martín](https://github.com/igarzonm)
 #### Tutor: [Nombre del profesor tutor](Enlace a su cuenta de gitHub)
 #### Fecha de Inicio: DD-MM-YYYY
 #### Fecha de Finalización: DD-MM-YYYY
