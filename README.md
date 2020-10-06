@@ -32,4 +32,4 @@ El propósito de esta aplicación web es cubrir las necesidades de cualquier lec
 
 ## Estructura del Proyecto
 
-Dentro de este repositorio encontraremos todo lo necesario para entender el proyecto, donde podrás encontrar desde el alcance y la funcionalidad como la carpeta src del proyecto. 
+Dentro de este repositorio encontraremos todo lo necesario para entender el proyecto, donde podrás encontrar desde el alcance y la funcionalidad como la carpeta "project" del proyecto. 
