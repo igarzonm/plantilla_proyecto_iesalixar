@@ -32,4 +32,4 @@ El propósito de esta aplicación web es cubrir las necesidades de cualquier lec
 
 ## Estructura del Proyecto
 
-Dentro de este repositorio encontraremos todo lo necesario para entender el proyecto, donde podrás encontrar desde el alcance y la funcionalidad como la carpeta "project" del proyecto. 
+Dentro de este repositorio encontraremos todo lo necesario para entender el proyecto, donde podrás encontrar la información recogida para la realización de dicho proyecto, como puede ser el *alcance*, la *funcionalidad*, el mapa de la aplicación etc. Por otro lado en la carpeta **docs** encontramos todo el código relacionado con myReader, con el que se podrá desplegar la aplicación.
