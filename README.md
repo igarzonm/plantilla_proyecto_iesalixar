@@ -24,24 +24,12 @@ El desarrollo de toda Aplicación Web requiere seguir un [proceso estructurado](
 
 ¿Conoces o alguna vez has oído acerca de **FilmAffinity**? Pues sí, lo que voy a presentar es una aplicación web con el objetivo de saciar a los lectores de tal forma que Filmaffinity lo hace con todos los cinéfilos más experimentados, este nuevo proyecto se llama **myReader**.
 
-Con este proyecto, me he decidido a crear un espacio en el que cualquier lector pueda, desde tener un registro con los libros que más te hayan gustado o tengas pendiente por leer hasta tener una lista de amigos con gustos en común. Gracias a esto, nos olvidaremos de las típicas notas en el móvil con los libros que nos hayamos leído o notas con los libros que aún querramos leer, con myReader lo tendremos todo en uno de una manera más rápida y fácil.
+Con este proyecto, me he decidido a crear un espacio en el que cualquier lector pueda tener lo que necesita para seguir disfrutando la lectura como nadie. Gracias a esto, nos olvidaremos de las típicas notas en el móvil con los libros que nos hayamos leído o notas con los libros que aún querramos leer, con myReader lo tendremos todo en uno de una manera más rápida y fácil.
 
 ## Definir el objetivo de la aplicación
 
 El propósito de esta aplicación web es cubrir las necesidades de cualquier lector cotidiano para registrar o buscar información acerca de cualquier libro y, además de esto, darle la oportunidad de introducirse en una comunidad con cientos de lectores con sus mismos gustos.
 
-## Prototipo de la Interfaz del proyecto
-
-En este apartado el alumno insertará la documentación del prototipo del proyecto (sketch, wireframe, mockup y un prototipo HTML y CSS)  que permite al cliente previsualizar el resultado final del producto que se está desarrollando.
-
-....
-....
-....
-
 ## Estructura del Proyecto
 
-En este apartado el alumno explicará el contenido del repositorio y de todas las carpetas relevantes del mismo.
-
-## Demostración del proyecto
-
-Vídeo demostrativo que contenga una pequeña demostración de la apariencia del proyecto y de aquello que el proyecto puede hacer. (No más de 2 minutos).
+Dentro de este repositorio encontraremos todo lo necesario para entender el proyecto, donde podrás encontrar desde el alcance y la funcionalidad como la carpeta src del proyecto. 
