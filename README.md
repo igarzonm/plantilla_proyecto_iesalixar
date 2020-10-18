@@ -17,6 +17,6 @@ Dentro de este repositorio encontraremos todo lo necesario para entender el proy
 
 ## Enlaces interesantes
 
-- [Alcance] (https://github.com/igarzonm/proyecto_myReader/blob/master/docs/Alcance.md)
-- [Stack Tecnológico] (https://github.com/igarzonm/proyecto_myReader/blob/master/docs/StackTecnol%C3%B3gico.pdf)
-- [Proyecto] (https://github.com/igarzonm/proyecto_myReader/tree/master/project)
+- [Alcance](https://github.com/igarzonm/proyecto_myReader/blob/master/docs/Alcance.md)
+- [Stack Tecnológico](https://github.com/igarzonm/proyecto_myReader/blob/master/docs/StackTecnol%C3%B3gico.pdf)
+- [Proyecto](https://github.com/igarzonm/proyecto_myReader/tree/master/project)
