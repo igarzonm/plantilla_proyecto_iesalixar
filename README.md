@@ -9,7 +9,7 @@ Con este proyecto, me he decidido a crear un espacio en el que cualquier lector 
 
 ## Definir el objetivo de la aplicación
 
-El propósito de esta aplicación web es cubrir las necesidades de cualquier lector cotidiano para registrar o buscar información acerca de cualquier libro y, además de esto, darle la oportunidad de introducirse en una comunidad con cientos de lectores con sus mismos gustos.
+El propósito de esta aplicación web es cubrir las necesidades de cualquier lector cotidiano para registrar o buscar información acerca de cualquier libro y, además de esto, darle la oportunidad de introducirse en una comunidad con cientos de lectores con sus mismos gustos. Con esto se afianzará la introducción de cualquier persona en el mundo de la lectura, donde podrá llevar cierto orden en su trayectoria como lector usando nuestra aplicación como apoyo para ello.
 
 ## Estructura del Proyecto
 
