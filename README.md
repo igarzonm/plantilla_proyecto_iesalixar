@@ -14,3 +14,9 @@ El propósito de esta aplicación web es cubrir las necesidades de cualquier lec
 ## Estructura del Proyecto
 
 Dentro de este repositorio encontraremos todo lo necesario para entender el proyecto, donde podrás encontrar la información recogida para la realización de dicho proyecto, como puede ser el *alcance*, la *funcionalidad*, el mapa de la aplicación etc. Por otro lado en la carpeta **docs** encontramos todo el código relacionado con myReader, con el que se podrá desplegar la aplicación.
+
+## Enlaces interesantes
+
+- [Alcance] (https://github.com/igarzonm/proyecto_myReader/blob/master/docs/Alcance.md)
+- [Stack Tecnológico] (https://github.com/igarzonm/proyecto_myReader/blob/master/docs/StackTecnol%C3%B3gico.pdf)
+- [Proyecto] (https://github.com/igarzonm/proyecto_myReader/tree/master/project)
