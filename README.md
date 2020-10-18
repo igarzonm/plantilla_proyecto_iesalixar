@@ -1,12 +1,6 @@
 
 # myReader
 
-#### Curso Escolar 2019-2020
-#### Autor: [Iván Garzón Martín](https://github.com/igarzonm)
-#### Tutor: [Manuel Conde Terraza](https://github.com/mcondet)
-#### Fecha de Inicio: 12-10-2019
-#### Fecha de Finalización: DD-MM-YYYY
-
 ## Breve descripción del proyecto
 
 ¿Conoces o alguna vez has oído acerca de **FilmAffinity**? Pues sí, lo que voy a presentar es una aplicación web con el objetivo de saciar a los lectores de tal forma que Filmaffinity lo hace con todos los cinéfilos más experimentados, este nuevo proyecto se llama **myReader**.
